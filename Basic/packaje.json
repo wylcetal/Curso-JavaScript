@@ -1,0 +1,9 @@
+{
+  "name": "Curso_MoureDev",
+  "version": "1.0.0",
+  "description": "Curso de JavaScript - MoureDev",
+  "main": "00-helloworld.js",
+  "scripts": {},
+  "author": "wylcetal",
+  "license": "MIT"
+}
